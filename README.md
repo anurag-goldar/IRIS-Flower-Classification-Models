@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project is about classifying Iris flowers into three species (**Setosa, Versicolor, and Virginica**) using **Machine Learning**. The dataset used is the famous **Iris Flower Dataset**, and the classification model is built using **Support Vector Machine (SVM)** from Scikit-Learn.
+This project is about classifying Iris flowers into three species (**Setosa, Versicolor, and Virginica**) using **Machine Learning**. The dataset used is the famous **Iris Flower Dataset**, and the classification model is built using **Support Vector Machine (SVM)**, **Logistic Regression**, **Decision Tree** from Scikit-Learn.
 
 ## 📂 Files in This Repository
 
