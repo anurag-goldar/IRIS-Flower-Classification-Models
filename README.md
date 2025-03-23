@@ -27,9 +27,11 @@ The dataset consists of **150 samples**, each with the following features:
    cd IRIS-Flower-Classification-Models
    
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
    
-3. Run the Jupyter Notebook:
+4. Run the Jupyter Notebook:
+   ```bash
    jupyter notebook IRIS_Flower_Classification.ipynb
 
 ## 🚀 How to Use
